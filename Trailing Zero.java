@@ -22,8 +22,8 @@ class Main
     }
 }
 
-//Input:
+/*Input:
 1
 9
 Output:
-1//
+1*/
